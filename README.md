@@ -3,7 +3,7 @@
 <img src="i[mg_girl.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-fwhzy&psig=AOvVaw1HMxeRrQ62xIcbNvF0bQGw&ust=1727174516608000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICGgM_w2IgDFQAAAAAdAAAAABAt)" alt="minions">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wimansi-navoda&label=Profile%20views&color=0e75b6&style=flat" alt="wimansi-navoda" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
