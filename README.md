@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wimansi Navoda</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-frozen-elsa-princess-elegant-blue-dress-blonde-hai-7992750%2F&psig=AOvVaw05jcl1esm6hW6IK-fHAmMt&ust=1727176798572000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCZoZL52IgDFQAAAAAdAAAAABAE" alt="frozen">
+
 
 <p align="left">
 </p>
